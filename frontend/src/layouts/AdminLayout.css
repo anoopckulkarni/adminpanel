@@ -1,0 +1,15 @@
+.admin-layout {
+    display: flex;
+    min-height: 100vh;
+}
+
+.admin-header {
+    background-color: #f8f9fa;
+    padding: 1rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ddd;
+}
+
+/* ... other styles for header, sidebar, content, footer ... */
